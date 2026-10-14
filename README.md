@@ -29,7 +29,9 @@ Each project page includes an overview, areas of focus, skills demonstrated, and
 
 ## Earlier Cybersecurity Labs
 
-The original lab files are still available in this repository. They document earlier practice with Linux, file integrity, reconnaissance, vulnerable lab environments, and web application security.
+[Browse the older labs and skills guide](labs/README.md)
+
+The guide gives each lab a clear title, a suggested reading order, and its skill focus. The original documents remain available. They cover Linux, file integrity, reconnaissance, vulnerable lab environments, and web application security.
 
 These exercises provide background for my more recent investigation and intelligence projects.
 
