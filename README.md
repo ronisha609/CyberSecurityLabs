@@ -1,40 +1,32 @@
-# Ronisha Showers
+# Ronisha Showers | Security & Intelligence Portfolio
 
-### Cybersecurity · Investigations · Insider Risk · Intelligence Analysis
+I’m a cybersecurity analyst with a background in network security, digital forensics, and investigative work. I enjoy tracing suspicious activity, connecting evidence, and figuring out what the findings actually support.
 
-I’m a cybersecurity analyst with a background in network security, digital forensics, and investigative work. I’m interested in tracing suspicious activity, connecting accounts and behavior, and figuring out what the evidence actually supports.
+[Notion Portfolio](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf) · [LinkedIn](https://www.linkedin.com/in/ronisha-showers)
 
-My projects bring together technical investigation, online research, and clear assessments. I’m building toward work in security investigations, insider risk, cybercrime intelligence, and counterintelligence.
+## Start Here
 
-[Notion Intelligence Portfolio](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf) · [LinkedIn](https://www.linkedin.com/in/ronisha-showers)
+| Collection | What you’ll find |
+| --- | --- |
+| [Intelligence & Investigation Projects](01-Intelligence-Projects/README.md) | My recent work in insider risk, OSINT, threat-actor analysis, and threat hunting. |
+| [Cybersecurity Labs](02-Cybersecurity-Labs/README.md) | Earlier hands-on training, organized in reading order with a description and skill focus for each lab. |
 
 ## Featured Projects
 
-| Project | What it shows |
+| Project | Description |
 | --- | --- |
-| [Foreign Recruitment & Insider Threat](projects/foreign-recruitment-insider-threat.md) | Investigating false identities, remote IT-worker schemes, facilitators, and trusted access. |
-| [OSINT & Protective Intelligence](projects/osint-protective-intelligence.md) | Assessing intent, capability, access, concerning behavior, and escalation in a fictional case. |
-| [LockBit Threat Actor Profile](projects/lockbit-threat-actor-profile.md) | Connecting adversary motivations and attack methods to organizational risk and defensive recommendations. |
-| [Threat Hunt & Detection — T1562.001](projects/threat-hunt-t1562-001.md) | Turning threat intelligence into a hunt for EDR network silencing and Microsoft Defender impairment. |
+| [Foreign Recruitment & Insider Risk](01-Intelligence-Projects/01-Foreign-Recruitment-and-Insider-Risk.md) | How false identities, facilitators, and remote IT-worker schemes can create insider risk. Includes indicators, other explanations, and records to check. |
+| [OSINT & Protective Intelligence](01-Intelligence-Projects/02-OSINT-and-Protective-Intelligence.md) | A fictional threat assessment that examines intent, capability, access, and signs of escalation. |
+| [LockBit Threat Actor Analysis](01-Intelligence-Projects/03-LockBit-Threat-Actor-Analysis.md) | Research into LockBit’s motivations, targets, and attack methods, with organizational risk and defensive recommendations. |
+| [Defender & EDR Threat Hunt](01-Intelligence-Projects/04-Defender-and-EDR-Threat-Hunt.md) | A hunt and detection project for MITRE ATT&CK T1562.001, covering telemetry, false positives, and escalation. |
 
-Each project page includes an overview, areas of focus, skills demonstrated, and a link to its complete report in Notion.
+## Skills Across This Portfolio
 
-## How I Approach Investigations
+- **Investigation:** connect identity, access, technical activity, and behavior.
+- **Analysis:** evaluate sources, check other explanations, and explain information gaps.
+- **Cybersecurity:** explore Linux, file integrity, reconnaissance, and vulnerable lab environments.
+- **Communication:** turn findings into clear assessments and practical recommendations.
 
-- Connect technical activity with identity, access, and behavior.
-- Check other explanations before drawing conclusions.
-- Separate evidence, assumptions, and assessment.
-- Explain information gaps and what would help resolve them.
-- Turn findings into practical security actions.
+## About the Projects
 
-## Earlier Cybersecurity Labs
-
-[Browse the older labs and skills guide](labs/README.md)
-
-The guide gives each lab a clear title, a suggested reading order, and its skill focus. The original documents remain available. They cover Linux, file integrity, reconnaissance, vulnerable lab environments, and web application security.
-
-These exercises provide background for my more recent investigation and intelligence projects.
-
-## About This Work
-
-These are independent portfolio and training projects. The foreign recruitment and protective-intelligence assessments use fictional scenarios grounded in public reporting. They are learning exercises and do not represent live cases or employer investigations. Complete reports and their source references remain in Notion; page access depends on the Notion sharing settings.
+These are independent portfolio and training projects. The insider-risk and protective-intelligence projects use fictional scenarios grounded in public reporting. Full intelligence reports remain in Notion; access depends on its sharing settings.
