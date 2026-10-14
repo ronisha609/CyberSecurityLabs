@@ -27,6 +27,14 @@ This separate collection covers **foreign recruitment and insider risk, OSINT an
 
 [Full intelligence portfolio in Notion](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf)
 
+## More Technical Projects
+
+| Project | What it’s about |
+| --- | --- |
+| [Python Keyboard Event Logging Lab](https://github.com/ronisha609/KEYLOGGER) | Tutorial-based Python project with a code walkthrough and a controlled callback test. Demonstrates event handling and logging. |
+| [CodeQL Workflow Setup Lab](https://github.com/ronisha609/CodeQL-Test) | GitHub Actions configuration for static analysis. Demonstrates workflow structure; completed scan results are not yet available. |
+| [Python IT Automation References](https://github.com/ronisha609/google-it-automation-with-python) | Attributed course reference material covering system checks, CSV reporting, and troubleshooting. |
+
 ## About This Work
 
 The cybersecurity documents are earlier training exercises. Lab descriptions reflect the original document titles; open the documents for procedures and results. Intelligence assessments are independent portfolio projects, with fictional scenarios identified on their project pages.
