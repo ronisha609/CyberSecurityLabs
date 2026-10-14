@@ -21,7 +21,7 @@ Hands-on cybersecurity training covering **Linux, file integrity, active reconna
 
 ## Separate Collection: Intelligence & Investigation Labs
 
-[Open the intelligence labs folder](01-Intelligence-Projects/README.md)
+[Open the separate Intelligence Portfolio repository](https://github.com/ronisha609/Intelligence-Portfolio)
 
 This separate collection covers **foreign recruitment and insider risk, OSINT and protective intelligence, LockBit threat-actor analysis, and a Defender/EDR threat hunt**. Each project includes a description, its analytic focus, skills, and a link to the full report.
 
