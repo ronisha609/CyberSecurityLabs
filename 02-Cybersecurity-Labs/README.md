@@ -28,4 +28,4 @@ These two original filenames did not identify their topics. They are preserved h
 
 Descriptions and skill areas are based on the original document titles; consult the documents for procedures and results. The documents are unchanged.
 
-[Back to portfolio](../README.md) · [Intelligence projects](../01-Intelligence-Projects/README.md)
+[Back to portfolio](../README.md) · [Intelligence projects](https://github.com/ronisha609/Intelligence-Portfolio)
